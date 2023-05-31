@@ -8,6 +8,8 @@
             .firstsection {
     background-color: rgb(9, 9, 9);
     }
+
+    
             </style>
     </head>
     
@@ -15,6 +17,7 @@
     <div class="firstsection" >        
        <a href="restaurant.html">Restaurant</a>
        <img src="restaurant.jpg" height="300px" width="300px">
+       <a href="index2.php">New Page</a>
     </div>
     <hr>
     <div class="secondsection" >
